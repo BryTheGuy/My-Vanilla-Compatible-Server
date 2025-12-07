@@ -1,0 +1,34 @@
+
+# Should space-clicking move all items even if an empty slot was clicked?
+allowBulkTransferAllOnEmptySlot = false
+
+# Should space-clicking armor in the inventory swap to all matching armor?
+bulkTransferArmorSets = true
+
+# Should shift-ctrl-drop-clicking drop all items of the same type at once?
+enableBulkDrop = true
+
+# Should shift-ctrl-clicking move all items of the same type at once?
+enableBulkTransfer = true
+
+# Should space-clicking an item move all items from that inventory at once?
+enableBulkTransferAll = true
+
+# Should control-space-clicking an item move one of each item from that inventory at once?
+enableBulkTransferSingle = true
+
+# Should holding click or right-click with a bundle empty or insert hovered slots?
+enableBundleDrag = true
+
+# Should middle-clicking a slot sort the inventory?
+enableMiddleClickSort = true
+
+# Should holding shift and moving your mouse over items quick-transfer them without requiring each to be clicked?
+enableShiftDrag = true
+
+# Should ctrl-clicking only move one item at a time instead of the full stack?
+enableSingleTransfer = true
+
+# Use the client implementation even on servers that have the mod installed - only useful for development purposes.
+forceClientImplementation = false
+
