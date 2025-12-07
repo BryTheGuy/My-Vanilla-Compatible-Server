@@ -84,6 +84,8 @@ Mods should not require using command line to perform actions. (eg. /tp or /trig
 - [Skip the End]
 
 ### Data Packs
+- Hard on Start
+- Model Applier
 #### [Vanilla Tweaks](https://vanillatweaks.net/picker/datapacks/)
 - AFK Display
 - Anti Enderman Grief
@@ -107,6 +109,3 @@ Mods should not require using command line to perform actions. (eg. /tp or /trig
 - Unlock All Recipes
 - Villager Workstation
 - Wandering Trades
-
-- Hard on Start
-- Model Applier
