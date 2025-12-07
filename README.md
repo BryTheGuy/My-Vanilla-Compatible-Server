@@ -5,7 +5,7 @@
 Mods should not require using command line to perform actions. (eg. /tp or /trigger)
 
 ### Optimizations
-- [C^2^ME](https://modrinth.com/mod/c2me-fabric)
+- [C<sup>2</sup>ME](https://modrinth.com/mod/c2me-fabric)
 - [Clumps](https://modrinth.com/mod/clumps)
 - [Cloth Config API](https://modrinth.com/mod/cloth-config)
 - [Fabric API](https://modrinth.com/mod/fabric-api)
