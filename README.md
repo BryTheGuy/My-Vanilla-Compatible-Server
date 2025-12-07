@@ -107,3 +107,6 @@ Mods should not require using command line to perform actions. (eg. /tp or /trig
 - Unlock All Recipes
 - Villager Workstation
 - Wandering Trades
+
+- Hard on Start
+- Model Applier
